@@ -1,5 +1,7 @@
 # Why Would We Learn Markdown?
-## Markdown is a very versatile formatting language, and it can be used to structure documents in a variety of applications. 
+## Markdown is a very versatile formatting language, and it can be used to structure documents in a variety of applications.
+
+### To further my point, this page that you're reading right now is formatted in Markdown!
 ### From [Markdownguide.org](https://www.markdownguide.org/getting-started/), here are a number of reasons to want to learn Markdown:
 
 1. "Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation."
