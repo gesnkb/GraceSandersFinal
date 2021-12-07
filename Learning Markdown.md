@@ -8,4 +8,4 @@
 ### The symbols to perform these actions can be found here: 
 ![Extended Syntax](https://www.collectiveray.com/images/2021/05/markdown-cheatsheet-extended-syntax.webp?ezimgfmt=rs:1024x1448/rscb15/ng:webp/ngcb15)
 
-To return to the homepage, [click here]()
+To return to the homepage, [click here](https://github.com/gesnkb/GraceSandersFinal/blob/main/README.md)
