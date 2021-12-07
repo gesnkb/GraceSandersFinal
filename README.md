@@ -6,4 +6,5 @@
 ## Here, you will find links to additional pages where you can read more about Markdown:
 ### [What is a markup language, and what is Markdown?] ()
 ### [What makes Markdown worth Learning?] ()
+### [Syntax and How to Use Markdown} ()
 
