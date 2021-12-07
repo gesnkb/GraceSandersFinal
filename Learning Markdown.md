@@ -7,3 +7,5 @@
 ### The more intricate syntax can format your page with more advanced structures, such as inserting tables, highlighting text, including footnotes, and more.
 ### The symbols to perform these actions can be found here: 
 ![Extended Syntax](https://www.collectiveray.com/images/2021/05/markdown-cheatsheet-extended-syntax.webp?ezimgfmt=rs:1024x1448/rscb15/ng:webp/ngcb15)
+
+To return to the homepage, [click here]()
