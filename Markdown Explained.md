@@ -8,4 +8,4 @@
 
 ![Here is some Markdown syntax](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&q=40&w=1080)
 
-To return to the homepage, [click here]()
+To return to the homepage, [click here](https://github.com/gesnkb/GraceSandersFinal/blob/main/README.md)
