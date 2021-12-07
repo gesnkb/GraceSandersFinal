@@ -1,4 +1,4 @@
-# How to Use Markdown 
+# A Tutorial on Markdown 
 ## By: Grace Sanders
 
 ### Markdown is a markup language used to format pages in plaintext editors. It is a very useful language to know, and relatively simple to learn. In this tutorial, I will be describing in detail what specifically Markdown is, where it's used, how to use it, and some simple tips and tricks to using it. 
