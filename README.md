@@ -8,3 +8,6 @@
 ### [What Makes Markdown Worth Learning?](https://github.com/gesnkb/GraceSandersFinal/blob/main/Reason%20for%20Markdown.md)
 ### [Syntax and How to Use Markdown](https://github.com/gesnkb/GraceSandersFinal/blob/main/Learning%20Markdown.md)
 
+
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+
