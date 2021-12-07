@@ -5,6 +5,7 @@
 ![Some examples of markup languages](https://blog.fileformat.com/wp-content/uploads/sites/28/2019/05/Markup-Languages-FileFormat-300x199.png)
 
 ## Markdown is a very simple markup language. It is used in plaintext editors to add format elements to documents by using specialized markdown syntx to indicate certain structures
+### Markdown can be used in a number of plaintext editors, or a specific markdown application
 
 ![Here is some Markdown syntax](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&q=40&w=1080)
 
