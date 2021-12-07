@@ -6,5 +6,5 @@
 ## Here, you will find links to additional pages where you can read more about Markdown:
 ### [What is a markup language, and what is Markdown?](https://github.com/gesnkb/GraceSandersFinal/blob/main/Markdown%20Explained.md)
 ### [What makes Markdown worth Learning?](https://github.com/gesnkb/GraceSandersFinal/blob/main/Reason%20for%20Markdown.md)
-### [Syntax and How to Use Markdown} ()
+### [Syntax and How to Use Markdown](https://github.com/gesnkb/GraceSandersFinal/blob/main/Learning%20Markdown.md)
 
