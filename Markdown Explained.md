@@ -7,3 +7,5 @@
 ## Markdown is a very simple markup language. It is used in plaintext editors to add format elements to documents by using specialized markdown syntx to indicate certain structures
 
 ![Here is some Markdown syntax](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&q=40&w=1080)
+
+To return to the homepage, [click here]()
