@@ -5,6 +5,6 @@
 ### This tutorial is intended for IT students hoping to start utlizing Markdown, or for anyone interested in learning more about it!
 ## Here, you will find links to additional pages where you can read more about Markdown:
 [What is a markup language, and what is Markdown?](https://github.com/gesnkb/GraceSandersFinal/blob/main/Markdown%20Explained.md)
-### [What makes Markdown worth Learning?] ()
+### [What makes Markdown worth Learning?](https://github.com/gesnkb/GraceSandersFinal/blob/main/Reason%20for%20Markdown.md)
 ### [Syntax and How to Use Markdown} ()
 
